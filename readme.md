@@ -1,8 +1,9 @@
 # Custom Terminal Commands
 
-## create <project name>
+## Commands 
+#### create <project name>
 creates repo and links github
-## boniver
+#### boniver
 opens favorite video
-## good_morning
+#### good_morning
 starts morning routine
