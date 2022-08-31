@@ -2,3 +2,6 @@
 .env
 #ignore vscode files
 .vscode/
+
+Create_venv/
+.NUL
